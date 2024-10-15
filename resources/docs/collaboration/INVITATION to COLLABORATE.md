@@ -16,4 +16,6 @@
 
 Feel free to clone and work based on that basic bare-bones HTML project. If you know Git, can make push-requests to evaluate and test your contributions, otherwise, can zip up your version and email it to the TIA.
 
+**TIMELINES**: Plan is to have an up-to-date and shiny UIC landing page **by the end of October 2024.**
+
 **QUESTIONS**: Ask, Consult and Learn!
